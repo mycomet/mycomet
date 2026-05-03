@@ -19,12 +19,12 @@ by building a maintainable test framework with Appium, Pytest, and CI integratio
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
-![Appium](https://img.shields.io/badge/Appium-Automation-orange?style=flat-square&logo=appium)
-![Pytest](https://img.shields.io/badge/Pytest-Framework-yellow?style=flat-square&logo=pytest)
-![Android](https://img.shields.io/badge/Android-Testing-green?style=flat-square&logo=android)
-![CI](https://img.shields.io/badge/GitHub_Actions-CI-blue?style=flat-square&logo=githubactions)
-![Allure](https://img.shields.io/badge/Allure-Report-purple?style=flat-square)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Appium](https://img.shields.io/badge/appium-EE376D.svg?style=for-the-badge&logo=appium&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Android](https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Allure](https://img.shields.io/badge/allure-FF6C37.svg?style=for-the-badge)
 
 ---
 
